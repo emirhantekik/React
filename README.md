@@ -36,6 +36,7 @@ Bu işlemi tamamladıktan sonra,projeyi yeniden başlatarak çevre değişkenler
 `git clone https://github.com/kullaniciadi/hava-durumu-uygulamasi.git`
 2. Proje dizinine gidin:
 `cd weather`
+`cd frontend`
 3. Bağımlılıkları yükleyin:
 `npm install`
 Uygulamayı başlatın:
