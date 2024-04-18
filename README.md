@@ -43,6 +43,7 @@ Uygulamayı başlatın:
 <br/>
 
 ## Kullanım
+<img width="369" alt="Ekran Resmi 2024-04-18 19 22 28" src="https://github.com/emirhantekik/React/assets/85496436/94bc5a77-cd8d-4062-8bd0-c6b55cf2c038">
 
 <img width="369" alt="Ekran Resmi 2024-04-17 20 19 06" src="https://github.com/emirhantekik/React/assets/85496436/217cddf3-18ba-4757-a1d6-5295642e7198">
 
